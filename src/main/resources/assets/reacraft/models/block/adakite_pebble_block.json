@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "reacraft:block/adakite_pebble_block"
+  }
+}
